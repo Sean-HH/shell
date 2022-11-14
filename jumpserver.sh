@@ -17,5 +17,6 @@ do
   3)
     echo "login nfs";;
   *)
-    echo "unkown host"
+    echo "unkown host";;
+  esac
 done
